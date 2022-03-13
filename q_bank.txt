@@ -1,0 +1,10 @@
+1,Programming,Who developed C++,(a) Thomas Kushz,(b) John Kemney,(c) Bjarne Stroustrup,(d) James Goling,c
+2,Programming,What is the smallest individual unit in a program,(a) Variable,(b) Control,(c) Character,(d) Token,d
+3,Programming,What is the symbol of modulus operator,(a) +,(b) *,(c) /,(d) %,d
+4,Information Technology,Which one is the first search engine in internet,(a) Google,(b) Archie,(c) Altavista,(d) WAIS,b
+5,Information Technology,First computer virus is known as,(a) Rabbit,(b) Creeper Virus,(c) Elk Cloner,(d) SCA Virus,b
+6,Information Technology,Firewall in computer is used for,(a) Security,(b) Data Transmission,(c) Authentication,(d) Monitoring,a
+7,Information Technology,Which of the following is not an operating system,(a) DOS,(b) Mac,(c) C,(d) Linux,c
+8,General Knowledge,Which crop is sown on the largest area in India,(a) Rice,(b) Wheat,(c) Sugarcane,(d) Maize,a
+9,General Knowledge,Who is known as "The Saint of Gutters",(a) Baba Amte,(b) Mother Teresa,(c) Anna Hazare,(d) None of these,b
+10,General Knowledge,Which state has the largest population,(a) Uttar Pradesh,(b) Maharastra,(c) Bihar,(d) Andhra Pradesh,a
